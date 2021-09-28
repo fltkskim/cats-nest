@@ -17,9 +17,9 @@ $ npm run dev
 ```
 
 ## backend dotenv
-MONGODB_URI
-PORT=8000
-MODE='dev'
-JWT_SECRET
-SWAGGER_USER
-SWAGGER_PASSWORD# cats-nest
+* MONGODB_URI
+* PORT=8000
+* MODE='dev'
+* JWT_SECRET
+* SWAGGER_USER
+* SWAGGER_PASSWORD# cats-nest
